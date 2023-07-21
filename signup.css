@@ -1,0 +1,51 @@
+
+
+.signupcontainer{
+    margin-top: 40px;
+   
+   }
+.cardnew{
+   
+    color: white;
+    width: 43%;
+    margin-left:25%;
+    height: 100%;
+   
+
+}
+.btn-g{
+    padding-top: 30px;
+    margin-left: 35px;
+    
+ }
+ .btn-a{
+     text-align: center;
+     border-radius: 20%;
+     width:220px;
+     margin-left: 19%;
+     position: relative;
+     padding: 20px;
+ }
+ .btn-ca{
+     margin-left: 19%;
+     position: relative;
+     padding: 20px;
+     width: 225px;
+ }
+ .last-1{
+    text-align: center;
+ }
+ .last{
+    text-align: center; 
+ }
+ .last2{
+    text-align: center;
+    padding-top: 40px;
+ }
+ .font-awesome1{
+    font-size: 65px;
+   margin-left: 27%;
+ }
+ .card-body{
+  background-color: black;
+ }

@@ -1,0 +1,8 @@
+.sidebar-operation{
+    display: flex;
+    align-items: center;
+}
+
+.Sidebar-Operation:hover{
+ background-color: var(--twitter-secondary);
+}

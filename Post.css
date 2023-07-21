@@ -1,0 +1,20 @@
+.post-description{
+  width: 200px;
+  height: 200px;
+}
+.post{
+    padding-top: 30px;
+}
+.title1{
+    font-weight: 100;
+    font-size: smaller;
+}
+i{
+    margin-left: 20px;
+}
+.next{
+    padding-top: 30px;
+}
+.lower{
+    padding-top: 5px;
+}

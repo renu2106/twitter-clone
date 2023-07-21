@@ -1,0 +1,44 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+
+.Sidebar{
+    flex: 0.4;
+   font-size: x-large;
+   margin-left: 80px;
+   cursor: pointer;
+}
+.new1{
+   
+    font-size: x-large;
+    font-weight: 700;
+    padding-top: 30px;
+    margin-right: 98%;
+
+}
+.new2{
+    font-size: x-large;
+    font-weight: 700;
+    padding-top: 20px;
+    margin-right: 98%;
+}
+.new3{
+    font-size: large;
+    font-weight: 700;
+    padding-top: 20px;
+    margin-right: 98%;
+}
+i {
+    margin-right: 10px;
+  }
+  .btn-dark{
+    background-color: black;
+    border-color: black;
+    font-size: x-large;
+   
+  }
+.fa-twitter{
+    margin-left: 25%;
+}

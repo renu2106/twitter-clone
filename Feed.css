@@ -1,0 +1,7 @@
+.feed{
+    flex: 0.4;
+    margin-right: 18%;
+}
+.feed_header h2{
+    font-size: 1.3rem;
+}

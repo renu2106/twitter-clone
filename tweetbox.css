@@ -1,0 +1,25 @@
+.tweetbox{
+    padding: 0.5rem 1rem;
+}
+.tweetbox_form{
+    display: flex;
+}
+.tweetbox_form-field{
+    margin-left: 1rem;
+}
+.tweetbox_input{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tweetbox_input input{
+    border: none;
+    height:3rem;
+    width:100%;
+    border-bottom:1px solid lightgray;
+    margin-bottom: 1rem;
+}
+.tweetbox_input input::placeholder{
+    font-size: 0.9rem;
+}
